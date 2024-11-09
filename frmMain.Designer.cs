@@ -36,7 +36,7 @@
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
-            this.comboBox1 = new System.Windows.Forms.ComboBox();
+            this.ddlCarTypes = new System.Windows.Forms.ComboBox();
             this.btnSubmit = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
@@ -108,18 +108,19 @@
             this.label4.TabIndex = 7;
             this.label4.Text = "Car Types";
             // 
-            // comboBox1
+            // ddlCarTypes
             // 
-            this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Items.AddRange(new object[] {
+            this.ddlCarTypes.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.ddlCarTypes.FormattingEnabled = true;
+            this.ddlCarTypes.Items.AddRange(new object[] {
             "Honda",
             "Toyota",
             "Audi",
             "Tesla"});
-            this.comboBox1.Location = new System.Drawing.Point(52, 321);
-            this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(226, 21);
-            this.comboBox1.TabIndex = 8;
+            this.ddlCarTypes.Location = new System.Drawing.Point(52, 321);
+            this.ddlCarTypes.Name = "ddlCarTypes";
+            this.ddlCarTypes.Size = new System.Drawing.Size(226, 21);
+            this.ddlCarTypes.TabIndex = 8;
             // 
             // btnSubmit
             // 
@@ -136,7 +137,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(653, 397);
             this.Controls.Add(this.btnSubmit);
-            this.Controls.Add(this.comboBox1);
+            this.Controls.Add(this.ddlCarTypes);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
@@ -162,7 +163,7 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label4;
-        private System.Windows.Forms.ComboBox comboBox1;
+        private System.Windows.Forms.ComboBox ddlCarTypes;
         private System.Windows.Forms.Button btnSubmit;
     }
 }
