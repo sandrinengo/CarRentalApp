@@ -31,8 +31,8 @@
             this.lblTitle = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.txtCustomerName = new System.Windows.Forms.TextBox();
-            this.dateTimePicker1 = new System.Windows.Forms.DateTimePicker();
-            this.dateTimePicker2 = new System.Windows.Forms.DateTimePicker();
+            this.dtpRentDate = new System.Windows.Forms.DateTimePicker();
+            this.dtpReturnDate = new System.Windows.Forms.DateTimePicker();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
@@ -53,7 +53,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(49, 144);
+            this.label1.Location = new System.Drawing.Point(55, 118);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(85, 13);
             this.label1.TabIndex = 1;
@@ -61,30 +61,30 @@
             // 
             // txtCustomerName
             // 
-            this.txtCustomerName.Location = new System.Drawing.Point(52, 174);
+            this.txtCustomerName.Location = new System.Drawing.Point(58, 148);
             this.txtCustomerName.MinimumSize = new System.Drawing.Size(0, 30);
             this.txtCustomerName.Name = "txtCustomerName";
             this.txtCustomerName.Size = new System.Drawing.Size(225, 30);
             this.txtCustomerName.TabIndex = 2;
             // 
-            // dateTimePicker1
+            // dtpRentDate
             // 
-            this.dateTimePicker1.Location = new System.Drawing.Point(53, 249);
-            this.dateTimePicker1.Name = "dateTimePicker1";
-            this.dateTimePicker1.Size = new System.Drawing.Size(225, 20);
-            this.dateTimePicker1.TabIndex = 3;
+            this.dtpRentDate.Location = new System.Drawing.Point(59, 223);
+            this.dtpRentDate.Name = "dtpRentDate";
+            this.dtpRentDate.Size = new System.Drawing.Size(225, 20);
+            this.dtpRentDate.TabIndex = 3;
             // 
-            // dateTimePicker2
+            // dtpReturnDate
             // 
-            this.dateTimePicker2.Location = new System.Drawing.Point(366, 249);
-            this.dateTimePicker2.Name = "dateTimePicker2";
-            this.dateTimePicker2.Size = new System.Drawing.Size(225, 20);
-            this.dateTimePicker2.TabIndex = 4;
+            this.dtpReturnDate.Location = new System.Drawing.Point(372, 223);
+            this.dtpReturnDate.Name = "dtpReturnDate";
+            this.dtpReturnDate.Size = new System.Drawing.Size(225, 20);
+            this.dtpReturnDate.TabIndex = 4;
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(50, 223);
+            this.label2.Location = new System.Drawing.Point(56, 197);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(56, 13);
             this.label2.TabIndex = 5;
@@ -93,7 +93,7 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(363, 223);
+            this.label3.Location = new System.Drawing.Point(369, 197);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(65, 13);
             this.label3.TabIndex = 6;
@@ -102,7 +102,7 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(50, 294);
+            this.label4.Location = new System.Drawing.Point(56, 268);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(55, 13);
             this.label4.TabIndex = 7;
@@ -117,14 +117,14 @@
             "Toyota",
             "Audi",
             "Tesla"});
-            this.ddlCarTypes.Location = new System.Drawing.Point(52, 321);
+            this.ddlCarTypes.Location = new System.Drawing.Point(58, 295);
             this.ddlCarTypes.Name = "ddlCarTypes";
             this.ddlCarTypes.Size = new System.Drawing.Size(226, 21);
             this.ddlCarTypes.TabIndex = 8;
             // 
             // btnSubmit
             // 
-            this.btnSubmit.Location = new System.Drawing.Point(366, 305);
+            this.btnSubmit.Location = new System.Drawing.Point(372, 279);
             this.btnSubmit.Name = "btnSubmit";
             this.btnSubmit.Size = new System.Drawing.Size(138, 55);
             this.btnSubmit.TabIndex = 9;
@@ -141,8 +141,8 @@
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
-            this.Controls.Add(this.dateTimePicker2);
-            this.Controls.Add(this.dateTimePicker1);
+            this.Controls.Add(this.dtpReturnDate);
+            this.Controls.Add(this.dtpRentDate);
             this.Controls.Add(this.txtCustomerName);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.lblTitle);
@@ -158,8 +158,8 @@
         private System.Windows.Forms.Label lblTitle;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.TextBox txtCustomerName;
-        private System.Windows.Forms.DateTimePicker dateTimePicker1;
-        private System.Windows.Forms.DateTimePicker dateTimePicker2;
+        private System.Windows.Forms.DateTimePicker dtpRentDate;
+        private System.Windows.Forms.DateTimePicker dtpReturnDate;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label4;
