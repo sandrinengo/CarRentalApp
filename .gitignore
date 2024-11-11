@@ -401,4 +401,4 @@ FodyWeavers.xsd
 *.edmx
 
 # Config Files
-*.config
+App.config
