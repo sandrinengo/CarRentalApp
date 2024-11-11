@@ -396,3 +396,9 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Data ADO
+*.edmx
+
+# Config Files
+*.config
