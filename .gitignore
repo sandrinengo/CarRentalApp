@@ -402,3 +402,4 @@ FodyWeavers.xsd
 
 # Config Files
 App.config
+*.config
