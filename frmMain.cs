@@ -30,11 +30,13 @@ namespace CarRentalApp
             frmRental.MdiParent = this;
             frmRental.Show();
         }
-
-        private void toolStripMenuItem1_Click(object sender, EventArgs e)
-        {
-
-        }
         #endregion
+
+        private void tsmManageVehicle_Click(object sender, EventArgs e)
+        {
+            frmManageVehicle frmManageVehicle = new frmManageVehicle();
+            frmManageVehicle.MdiParent = this;
+            frmManageVehicle.Show();
+        }
     }
 }

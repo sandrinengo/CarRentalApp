@@ -9,6 +9,11 @@ namespace CarRentalApp.Models
 {
     public class RentInfo
     {
-        public string Name { get; set; }
+        public int ID { get; set; }
+        public string Make { get; set; }
+        public string Model { get; set; }
+        public string VIN { get; set; }
+        public string LicenseNumber { get; set; }
+        public int Year { get; set; }
     }
 }

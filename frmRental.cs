@@ -54,8 +54,8 @@ namespace CarRentalApp
             try
             {
                 var carTypes = carRentalEntities.CarTypes.ToList();
-                carTypes.Insert(0, new CarType { ID=0, Name="Select"});
-                ddlCarTypes.DisplayMember = "Name";
+                carTypes.Insert(0, new CarType { ID=0, Make="Select"});
+                ddlCarTypes.DisplayMember = "Make";
                 ddlCarTypes.ValueMember = "ID";
                 
                 ddlCarTypes.DataSource = carTypes;

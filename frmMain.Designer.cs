@@ -29,7 +29,7 @@
         private void InitializeComponent()
         {
             this.MenuStrip = new System.Windows.Forms.MenuStrip();
-            this.toolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
+            this.tsmManageVehicle = new System.Windows.Forms.ToolStripMenuItem();
             this.mangeRentalRecordsToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.addRToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.editRentalToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -40,7 +40,7 @@
             // MenuStrip
             // 
             this.MenuStrip.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.toolStripMenuItem1,
+            this.tsmManageVehicle,
             this.mangeRentalRecordsToolStripMenuItem});
             this.MenuStrip.Location = new System.Drawing.Point(0, 0);
             this.MenuStrip.Name = "MenuStrip";
@@ -48,12 +48,12 @@
             this.MenuStrip.TabIndex = 0;
             this.MenuStrip.Text = "menuStrip1";
             // 
-            // toolStripMenuItem1
+            // tsmManageVehicle
             // 
-            this.toolStripMenuItem1.Name = "toolStripMenuItem1";
-            this.toolStripMenuItem1.Size = new System.Drawing.Size(140, 20);
-            this.toolStripMenuItem1.Text = "Manage Vehicle Listing";
-            this.toolStripMenuItem1.Click += new System.EventHandler(this.toolStripMenuItem1_Click);
+            this.tsmManageVehicle.Name = "tsmManageVehicle";
+            this.tsmManageVehicle.Size = new System.Drawing.Size(140, 20);
+            this.tsmManageVehicle.Text = "Manage Vehicle Listing";
+            this.tsmManageVehicle.Click += new System.EventHandler(this.tsmManageVehicle_Click);
             // 
             // mangeRentalRecordsToolStripMenuItem
             // 
@@ -68,20 +68,20 @@
             // addRToolStripMenuItem
             // 
             this.addRToolStripMenuItem.Name = "addRToolStripMenuItem";
-            this.addRToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.addRToolStripMenuItem.Size = new System.Drawing.Size(142, 22);
             this.addRToolStripMenuItem.Text = "Add Rental";
             this.addRToolStripMenuItem.Click += new System.EventHandler(this.addRToolStripMenuItem_Click);
             // 
             // editRentalToolStripMenuItem
             // 
             this.editRentalToolStripMenuItem.Name = "editRentalToolStripMenuItem";
-            this.editRentalToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.editRentalToolStripMenuItem.Size = new System.Drawing.Size(142, 22);
             this.editRentalToolStripMenuItem.Text = "Edit Rental";
             // 
             // viewArchiveToolStripMenuItem
             // 
             this.viewArchiveToolStripMenuItem.Name = "viewArchiveToolStripMenuItem";
-            this.viewArchiveToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.viewArchiveToolStripMenuItem.Size = new System.Drawing.Size(142, 22);
             this.viewArchiveToolStripMenuItem.Text = "View Archive";
             // 
             // frmMain
@@ -104,7 +104,7 @@
         #endregion
 
         private System.Windows.Forms.MenuStrip MenuStrip;
-        private System.Windows.Forms.ToolStripMenuItem toolStripMenuItem1;
+        private System.Windows.Forms.ToolStripMenuItem tsmManageVehicle;
         private System.Windows.Forms.ToolStripMenuItem mangeRentalRecordsToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem addRToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem editRentalToolStripMenuItem;

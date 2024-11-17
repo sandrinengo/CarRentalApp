@@ -3,28 +3,36 @@
   "WorkspaceRootPath": "D:\\Study\\Tutorials\\DesktopApps\\CarRentalApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5FE17A2E-0EDE-43CA-8DD5-5DBB2F763302}|CarRentalApp.csproj|d:\\study\\tutorials\\desktopapps\\carrentalapp\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FE17A2E-0EDE-43CA-8DD5-5DBB2F763302}|CarRentalApp.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5FE17A2E-0EDE-43CA-8DD5-5DBB2F763302}|CarRentalApp.csproj|d:\\study\\tutorials\\desktopapps\\carrentalapp\\frmmanagevehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FE17A2E-0EDE-43CA-8DD5-5DBB2F763302}|CarRentalApp.csproj|solutionrelative:frmmanagevehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FE17A2E-0EDE-43CA-8DD5-5DBB2F763302}|CarRentalApp.csproj|d:\\study\\tutorials\\desktopapps\\carrentalapp\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5FE17A2E-0EDE-43CA-8DD5-5DBB2F763302}|CarRentalApp.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{5FE17A2E-0EDE-43CA-8DD5-5DBB2F763302}|CarRentalApp.csproj|D:\\Study\\Tutorials\\DesktopApps\\CarRentalApp\\models\\rentinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FE17A2E-0EDE-43CA-8DD5-5DBB2F763302}|CarRentalApp.csproj|solutionrelative:models\\rentinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FE17A2E-0EDE-43CA-8DD5-5DBB2F763302}|CarRentalApp.csproj|d:\\study\\tutorials\\desktopapps\\carrentalapp\\frmrental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5FE17A2E-0EDE-43CA-8DD5-5DBB2F763302}|CarRentalApp.csproj|solutionrelative:frmrental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5FE17A2E-0EDE-43CA-8DD5-5DBB2F763302}|CarRentalApp.csproj|d:\\study\\tutorials\\desktopapps\\carrentalapp\\frmrental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FE17A2E-0EDE-43CA-8DD5-5DBB2F763302}|CarRentalApp.csproj|D:\\Study\\Tutorials\\DesktopApps\\CarRentalApp\\frmrental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FE17A2E-0EDE-43CA-8DD5-5DBB2F763302}|CarRentalApp.csproj|solutionrelative:frmrental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FE17A2E-0EDE-43CA-8DD5-5DBB2F763302}|CarRentalApp.csproj|d:\\study\\tutorials\\desktopapps\\carrentalapp\\helpers\\errorhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FE17A2E-0EDE-43CA-8DD5-5DBB2F763302}|CarRentalApp.csproj|solutionrelative:helpers\\errorhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5FE17A2E-0EDE-43CA-8DD5-5DBB2F763302}|CarRentalApp.csproj|D:\\Study\\Tutorials\\DesktopApps\\CarRentalApp\\frmmanagevehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5FE17A2E-0EDE-43CA-8DD5-5DBB2F763302}|CarRentalApp.csproj|solutionrelative:frmmanagevehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FE17A2E-0EDE-43CA-8DD5-5DBB2F763302}|CarRentalApp.csproj|d:\\study\\tutorials\\desktopapps\\carrentalapp\\models\\rentinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FE17A2E-0EDE-43CA-8DD5-5DBB2F763302}|CarRentalApp.csproj|solutionrelative:models\\rentinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5FE17A2E-0EDE-43CA-8DD5-5DBB2F763302}|CarRentalApp.csproj|D:\\Study\\Tutorials\\DesktopApps\\CarRentalApp\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FE17A2E-0EDE-43CA-8DD5-5DBB2F763302}|CarRentalApp.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FE17A2E-0EDE-43CA-8DD5-5DBB2F763302}|CarRentalApp.csproj|D:\\Study\\Tutorials\\DesktopApps\\CarRentalApp\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5FE17A2E-0EDE-43CA-8DD5-5DBB2F763302}|CarRentalApp.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FE17A2E-0EDE-43CA-8DD5-5DBB2F763302}|CarRentalApp.csproj|D:\\Study\\Tutorials\\DesktopApps\\CarRentalApp\\frmrental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5FE17A2E-0EDE-43CA-8DD5-5DBB2F763302}|CarRentalApp.csproj|solutionrelative:frmrental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FE17A2E-0EDE-43CA-8DD5-5DBB2F763302}|CarRentalApp.csproj|D:\\Study\\Tutorials\\DesktopApps\\CarRentalApp\\helpers\\errorhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FE17A2E-0EDE-43CA-8DD5-5DBB2F763302}|CarRentalApp.csproj|solutionrelative:helpers\\errorhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -67,31 +75,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "frmManageVehicle.cs",
+              "DocumentMoniker": "D:\\Study\\Tutorials\\DesktopApps\\CarRentalApp\\frmManageVehicle.cs",
+              "RelativeDocumentMoniker": "frmManageVehicle.cs",
+              "ToolTip": "D:\\Study\\Tutorials\\DesktopApps\\CarRentalApp\\frmManageVehicle.cs",
+              "RelativeToolTip": "frmManageVehicle.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAIAwwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T00:36:05.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmManageVehicle.cs [Design]",
+              "DocumentMoniker": "D:\\Study\\Tutorials\\DesktopApps\\CarRentalApp\\frmManageVehicle.cs",
+              "RelativeDocumentMoniker": "frmManageVehicle.cs",
+              "ToolTip": "D:\\Study\\Tutorials\\DesktopApps\\CarRentalApp\\frmManageVehicle.cs [Design]",
+              "RelativeToolTip": "frmManageVehicle.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T00:27:03.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "frmMain.cs",
               "DocumentMoniker": "D:\\Study\\Tutorials\\DesktopApps\\CarRentalApp\\frmMain.cs",
               "RelativeDocumentMoniker": "frmMain.cs",
               "ToolTip": "D:\\Study\\Tutorials\\DesktopApps\\CarRentalApp\\frmMain.cs",
               "RelativeToolTip": "frmMain.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAIA9wCAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAApwCoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T19:59:22.382Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-11T19:59:22.382Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "frmMain.cs [Design]",
               "DocumentMoniker": "D:\\Study\\Tutorials\\DesktopApps\\CarRentalApp\\frmMain.cs",
               "RelativeDocumentMoniker": "frmMain.cs",
               "ToolTip": "D:\\Study\\Tutorials\\DesktopApps\\CarRentalApp\\frmMain.cs [Design]",
               "RelativeToolTip": "frmMain.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T19:49:09.99Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-11T19:49:09.99Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "ErrorHelper.cs",
               "DocumentMoniker": "D:\\Study\\Tutorials\\DesktopApps\\CarRentalApp\\Helpers\\ErrorHelper.cs",
               "RelativeDocumentMoniker": "Helpers\\ErrorHelper.cs",
@@ -99,46 +129,42 @@
               "RelativeToolTip": "Helpers\\ErrorHelper.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T15:13:11.679Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-10T15:13:11.679Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "RentInfo.cs",
               "DocumentMoniker": "D:\\Study\\Tutorials\\DesktopApps\\CarRentalApp\\Models\\RentInfo.cs",
               "RelativeDocumentMoniker": "Models\\RentInfo.cs",
               "ToolTip": "D:\\Study\\Tutorials\\DesktopApps\\CarRentalApp\\Models\\RentInfo.cs",
               "RelativeToolTip": "Models\\RentInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T14:52:32.107Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-10T14:52:32.107Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "frmRental.cs",
               "DocumentMoniker": "D:\\Study\\Tutorials\\DesktopApps\\CarRentalApp\\frmRental.cs",
               "RelativeDocumentMoniker": "frmRental.cs",
               "ToolTip": "D:\\Study\\Tutorials\\DesktopApps\\CarRentalApp\\frmRental.cs",
               "RelativeToolTip": "frmRental.cs",
-              "ViewState": "AgIAAFwAAAAAAAAAAIAwwGEAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAIwDgAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T19:08:26.511Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-09T19:08:26.511Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "frmRental.cs [Design]",
               "DocumentMoniker": "D:\\Study\\Tutorials\\DesktopApps\\CarRentalApp\\frmRental.cs",
               "RelativeDocumentMoniker": "frmRental.cs",
               "ToolTip": "D:\\Study\\Tutorials\\DesktopApps\\CarRentalApp\\frmRental.cs [Design]",
               "RelativeToolTip": "frmRental.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T23:30:10.477Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-03T23:30:10.477Z"
             }
           ]
         }
